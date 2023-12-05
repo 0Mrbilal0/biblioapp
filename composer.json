@@ -1,0 +1,15 @@
+{
+    "name": "bilal/biblioapp",
+    "autoload": {
+        "psr-4": {
+            "Bilal\\Biblioapp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mrbilal",
+            "email": "bilal_itchir@Outlook.fr"
+        }
+    ],
+    "require": {}
+}
